@@ -1,0 +1,8 @@
+{
+  "/mock-ide/page": "app/mock-ide/page.js",
+  "/page": "app/page.js",
+  "/api/user/route": "app/api/user/route.js",
+  "/api/project/route": "app/api/project/route.js",
+  "/api/knowledge/route": "app/api/knowledge/route.js",
+  "/api/health/route": "app/api/health/route.js"
+}
